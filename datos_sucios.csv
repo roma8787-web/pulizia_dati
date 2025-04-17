@@ -1,0 +1,6 @@
+Nombre,Edad,Ciudad,Email,,Duplicada,Duplicada_2
+Ana,25.0,Madrid,ana@mail.com,,valor,valor
+Luis,30.0,,luis@mail.com,,valor,valor
+Carlos,,Barcelona,,,valor,valor
+,40.0,Madrid,carlos@mail.com,,valor,valor
+Ana,25.0,Madrid,ana@mail.com,,valor,valor
